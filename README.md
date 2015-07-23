@@ -4,4 +4,4 @@ Original library repo is at: https://github.com/jenschr/Arduino-libraries/tree/m
 
 Ported over to Spark core platform by @kennethlimcp
 
-Updated on 19 Oct 2014
+Updated on 23 July 2015

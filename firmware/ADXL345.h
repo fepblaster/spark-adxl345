@@ -1,6 +1,6 @@
 /*****************************************************************************************
  *                                                                                       *
- * ADXL345 Driver for Spark Core                                                         *
+ * ADXL345 Driver for Particle                                                           *
  * Original code from: https://github.com/jenschr/Arduino-libraries/tree/master/ADXL345  *
  ***************************************************************************             *
  *                                                                                       *
@@ -11,8 +11,6 @@
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the                         *
  * GNU License V2 for more details.                                                      *
  *                                                                                       *
- * Updated on: 19 Oct 2014                                                               *
- * Ported to Spark core platform by @kennethlimcp                                        *
  ****************************************************************************************/
 
 

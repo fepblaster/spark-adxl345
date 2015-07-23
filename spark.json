@@ -1,8 +1,8 @@
 {
     "name": "ADXL345",
-    "version": "0.0.2",
+    "version": "0.1.0",
     "author": "Kenneth Lim",
     "license": "GPLv3",
-    "description": "Library for ADXL345 3-axes accelerometer"
+    "description": "ADXL345 3-axes accelerometer"
 
 }
