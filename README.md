@@ -2,6 +2,6 @@
 
 Original library repo is at: https://github.com/jenschr/Arduino-libraries/tree/master/ADXL345
 
-Ported over to Spark core platform by @kennethlimcp
+Ported over to Particle platform by @kennethlimcp
 
-Updated on 23 July 2015
+Updated on 12 Dec 2015
